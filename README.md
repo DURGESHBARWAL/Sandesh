@@ -14,6 +14,6 @@ This a Django-Python Powered a simple functionality based Bot application
            $ python manage.py migrate
            $ python manage.py runserver
            
-      Open localhost:8000/chat/ and start chat with the bot.    
+      Open localhost:8000/ and start chat with the bot.    
            
            
